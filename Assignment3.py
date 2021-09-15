@@ -26,7 +26,7 @@ def save_file():
     with open(filepath, "w") as output_file:
         text = txt_edit.get(1.0, tk.END)
         output_file.write(text)
-    window.title(f"Shruti's Text Editor - {filepath}")
+    window.title(f"Nandini's Text Editor - {filepath}")
  
 
 def cut():
