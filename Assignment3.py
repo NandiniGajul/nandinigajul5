@@ -39,7 +39,7 @@ def paste():
 
 
 window = tk.Tk()
-window.title("Shruti's Text Editor ")
+window.title("Nandini's Text Editor ")
 window.rowconfigure(0, minsize=600, weight=1)
 window.columnconfigure(1, minsize=800, weight=1)
 
