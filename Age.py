@@ -1,0 +1,6 @@
+a=float(input("Enter your age"))
+b=float(input("Enter your age"))
+c=float(input("Enter your age"))
+if a>b : print("age of Nandini is ",a)
+elif  b>c : print(b)
+else : print(c)
